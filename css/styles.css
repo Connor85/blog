@@ -1,0 +1,15 @@
+.about-me{
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  color: green;
+}
+
+h2{
+  font-weight: bold;
+  color: blue;
+}
+
+ol {
+  list-style-type: none;
+}
